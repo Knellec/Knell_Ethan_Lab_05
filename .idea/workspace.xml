@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad94a016-64e2-45cf-ac7e-864d3a2e4a67" name="Changes" comment="Task 2">
-      <change afterPath="$PROJECT_DIR$/src/PartyAffiliation.java" afterDir="false" />
+    <list default="true" id="ad94a016-64e2-45cf-ac7e-864d3a2e4a67" name="Changes" comment="Task 3">
+      <change afterPath="$PROJECT_DIR$/src/TheaterKiosk.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,7 @@
     "Application.BirthMonth.executor": "Run",
     "Application.PartyAffiliation.executor": "Run",
     "Application.ShipCostCalculator.executor": "Run",
+    "Application.TheaterKiosk.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -75,12 +76,21 @@
       <option name="project" value="LOCAL" />
       <updated>1708385700254</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Task 3">
+      <option name="closed" value="true" />
+      <created>1708388201859</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708388201859</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task 1" />
     <MESSAGE value="Task 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 2" />
+    <MESSAGE value="Task 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 3" />
   </component>
 </project>
